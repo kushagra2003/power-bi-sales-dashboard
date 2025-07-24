@@ -21,7 +21,7 @@ A visually interactive **Power BI dashboard** that analyzes sales, profit, and o
 To view this dashboard live, request access or connect on LinkedIn.
 
 ## 🔗 Connect
-[LinkedIn – YourName](https://www.linkedin.com/in/kushagrainfo/)
+[LinkedIn – Kushagra](https://www.linkedin.com/in/kushagrainfo/)
 
 
 <img width="766" height="431" alt="Screenshot 2025-07-24 at 7 26 12 PM" src="https://github.com/user-attachments/assets/8c023dbf-b385-4048-928f-798a8a041ecf" />
